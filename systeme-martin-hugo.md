@@ -761,7 +761,7 @@ Après **1SA – 2♥ – 2♠ – 2SA – 3♣ – 3♦** : – 3♥ relais pui
 
 ## Cachalot
 
-Après **1♣ - 1♦** :
+Après **1♣ 1♦** :
 
 - X / 1♥ : 4 ou 5 ♥ / ♠
 - 1♠ : 6+H, transfert pour 1SA (peut cacher des mains à base de trèfles)
@@ -802,12 +802,12 @@ Après **1♣ - 1♥** :
 
 ## Mixed Raise
 
-Après **1♥/♠ - X** :
+Après **1♥/♠ X** :
 
 - 1SA : Texas ♣, faible ou fort
 - 2♣ : Texas ♦, faible ou fort
 
-Après **1♥ - X** :
+Après **1♥ X** :
 
 - 1♠ : Texas 1SA
 - 2♦ : 3♥, 8–10H ou +
@@ -817,7 +817,7 @@ Après **1♥ - X** :
 - XX : Le reste, pas fitté
 - 2SA : 4♥, 11H+
 
-Après **1♠ - X** :
+Après **1♠ X** :
 
 - 2♦ : Limite avec 5♦
 - 2♥ : 3♠, 8–10H
@@ -829,4 +829,35 @@ Après **1♠ - X** :
 
 ---
 
-**1m – Passe – 1M – 1SA** : bicolore 6m’-4M’
+**1m Passe 1M 1SA** : bicolore 6m’-4M’
+
+## Défense contre les 2 faibles 
+
+2♦ 3♦ : bicolore majeur
+2♦ 4♣ : bicolore avec 5♣ et une majeure 5e
+
+2M 4m : bicolore 5-5 avec la mineure nommée et l'autre majeure
+2M 3M : bicolore mineur
+
+## 2SA mini cue-bid
+
+
+2M X Passe => couleur sans saut = 0-7H
+2M X Passe 3M : cue-bid avec 11+H sans 4 cartes dans l'autre majeure
+2M X Passe 2SA : 8-10H any ou 11+H avec 4 cartes dans l'autre majeure
+
+Pareil en réveil : 2M Passe Passe X Passe 2SA montre 8-10H
+
+Après 2SA mini cue-bid : 
+
+- Avec une main mini le contreur annonce sa meilleure mineure
+- 
+- 
+
+
+## Défense contre les barrages 
+
+3♦ 4♣ : bicolore avec 5♣ et une majeure 5e
+3M 4m : bicolore 5-5 avec la mineure nommée et l'autre majeure
+
+Même chose en reveil.
